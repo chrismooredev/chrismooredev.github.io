@@ -8,9 +8,14 @@ permalink: /projects/
 
 < Area under construction >
 
+
+---
+
 # Github - Legacy
 
 These are projects that are largely completed for the scope I needed. More work may be done for bug fixes/smaller new features, but otherwise these are largely left alone.
+
+---
 
 ## [tarsum](https://github.com/chrismooredev/tarsum)
 
@@ -29,6 +34,8 @@ b.txt 2284615785EAAC08938CE4B1EAFF0E1E
 c.txt 5C08CE6C57F9957003246E92D07D03D4
 ```
 
+---
+
 ## [Minecraft Server Tutorial](https://chrismooredev.github.io/wrd204-mctutorial)
 
 A tutorial for creating a Minecraft server on Windows, Linux, or macOS.
@@ -36,3 +43,5 @@ A tutorial for creating a Minecraft server on Windows, Linux, or macOS.
 Written for a WRD204 - Technical Writing class I took at DePaul University.
 
 It's built as a static site hosted on Github pages, utilizing [Pug](https://pugjs.org/), [TypeScript](https://www.typescriptlang.org/) and [SCSS](https://sass-lang.com/) using [Material Components for the Web](https://github.com/material-components/material-components-web)
+
+---
