@@ -1,6 +1,8 @@
 
 Personal blog of Chris Moore. Built on the Reverie theme for Jekyll.
 
+[View Rendered site on Github Pages](https://chrismooredev.github.io)
+
 [RSS feed](https://chrismoore.dev/feed.xml)
 
 [Sitemap](https://chrismoore.dev/sitemap)
